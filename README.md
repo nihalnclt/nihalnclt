@@ -5,11 +5,11 @@ I am a self-taught full-stack developer. Currently busy learning and acquiring n
 
 - 🔭 I’m currently working at **Digiblock Network**
 
-- 🌱 I’m currently learning **Golang, Microservices and Kubernetes**
+- 🌱 I’m currently learning **DSA, Golang, Microservices and Kubernetes**
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 📖 I’m currently reading **Cracking the coding interview**
+- 📖 I’m currently reading **Atomic Habits**
 
 - 💬 Ask me about **MERN**
 
