@@ -3,9 +3,9 @@
 #### A passionate full-stack developer.    
 I am a self-taught full-stack developer. Currently busy learning and acquiring new coding skills.
 
-- 🔭 I’m currently working at **Glidix Technologies**
+- 🔭 I’m currently working at **Faircode Infotech**
 
-- 🌱 I’m currently learning **DSA, Microservices and Kubernetes**
+- 🌱 I’m currently learning **DSA, Golang**
 
 - 👯 I’m looking to collaborate on **any project**
 
