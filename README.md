@@ -5,7 +5,7 @@ I am a self-taught full-stack developer. Currently busy learning and acquiring n
 
 - 🔭 I’m currently working at **Faircode Infotech**
 
-- 🌱 I’m currently learning **DSA, Golang**
+- 🌱 I’m currently learning **DSA, Golang, Low level programming**
 
 - 👯 I’m looking to collaborate on **any project**
 
